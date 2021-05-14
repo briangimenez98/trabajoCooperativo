@@ -1,1 +1,17 @@
-[{"nombre" : "Brian","apellido": "Gimenez", "edad" : 23, "comision" :6, "pais" : "Argentina"}]
+[
+    {
+        "nombre" : "Luis",
+        "capacidadDePago": 1000,
+        "capacidadDePagoTotal" : 10000
+    },
+    {
+        "nombre" : "Robert",
+        "capacidadDePago": 5000,
+        "capacidadDePagoTotal" : 500000
+    },
+    {
+        "nombre" : "Clementina",
+        "capacidadDePago": 10000,
+        "capacidadDePagoTotal" : 100000
+    }
+]
