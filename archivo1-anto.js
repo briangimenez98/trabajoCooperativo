@@ -1,1 +1,3 @@
-console.log('Hola Brian');
+let saludo = 'Hola Anto'
+
+console.log(saludo);
